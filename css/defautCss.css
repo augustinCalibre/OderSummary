@@ -3,12 +3,12 @@
     
     
 }
-.Brightblue {color:hsl(245, 75%, 52%)}
+.Brightblue {background-color:hsl(245, 75%, 52%)}
 
 
-.Verypaleblue {color:hsl(225, 100%, 98%)}
+.Verypaleblue {background-color:hsl(225, 100%, 98%)}
 .Desaturatedblue{
     color:hsl(224, 23%, 55%);
 }
-.Darkblue {color: hsl(223, 47%, 23%);}
+.Darkblue {background-color: hsl(223, 47%, 23%);}
 
